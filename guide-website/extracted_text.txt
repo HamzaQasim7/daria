@@ -1,0 +1,619 @@
+--- PAGE 1 ---
+FREE ARCHITECTURE RESOURCE / 2026
+THE FIRST YEAR
+ARCHITECTURE
+STARTER GUIDE.
+What I would learn, use, read and study before starting architecture school - and during the first year.
+IF YOU'RE STARTING ARCHITECTURE SCHOOL THIS YEAR, READ THIS FIRST.
+Revit / Visoid / Photoshop / InDesign / workflow / references / books / crits
+DARIA ZYGINA / ARCHITECTURE RESOURCES
+01
+
+
+--- PAGE 2 ---
+INTERACTIVE CONTENTS
+02
+CONTENTS.
+Tap a section to jump directly to it.
+03
+Who I am
+04
+Before you start
+05
+The four tools
+06
+My project workflow
+07
+Revit
+08
+Visoid
+09
+Photoshop
+10
+InDesign
+11
+Ritual of the Circle / concept + site
+12
+Ritual of the Circle / plan + section
+13
+Ritual of the Circle / room + detail
+14
+Where I would learn
+15
+How I would start a project
+16
+Where I would look for references
+17
+How to study a reference
+18
+Buildings I would study
+19
+Books near my desk
+20
+Crits + semester rhythm
+21
+Workbook
+22
+Starter checklist
+DARIA ZYGINA / ARCHITECTURE RESOURCES
+CONTENTS
+02
+
+
+--- PAGE 3 ---
+WHO I AM
+03
+I'M DARIA ZYGINA.
+AN ARCHITECT.
+MY ROUTE
+Bachelor in Architecture / Germany
+2.5 years in practice
+Master's in Architecture / Switzerland
+This is not a universal architecture-school manual. It is the
+professional system I would give my younger self if I had
+to start again.
+THE PRINCIPLE
+Do not try to know everything. Build a clear workflow, learn a small number of tools properly, and spend
+more time understanding buildings than collecting images of them.
+DARIA ZYGINA / ARCHITECTURE RESOURCES
+ABOUT
+03
+CONTENTS
+FIRST YEAR IS NOT A TEST OF WHETHER YOU ALREADY KNOW
+HOW TO BE AN ARCHITECT.
+It is where you build the habits that make every later project easier.
+
+
+--- PAGE 4 ---
+01 / BEFORE YOU START
+04
+YOU DO NOT NEED
+TO KNOW EVERYTHING.
+Your first year is about learning how to think, test and communicate - not collecting software and
+architectural vocabulary.
+01
+LEARN ONE WORKFLOW
+A strong sequence of decisions will save you more time than knowing ten programs badly.
+02
+LOOK AT REAL BUILDINGS
+Plans, sections, details, materials and everyday use matter more than a beautiful hero render.
+03
+PRINT EARLY
+A drawing that feels perfect on a laptop can completely fail at A1.
+04
+KEEP YOUR PROCESS
+Save sketches, failed versions, models and diagrams. They show you how your thinking changes.
+05
+ASK SPECIFIC QUESTIONS
+'How can I make it better?' is too broad. 'Does this entrance sequence work?' can actually move a project
+forward.
+DARIA ZYGINA / ARCHITECTURE RESOURCES
+BEFORE YOU START
+04
+CONTENTS
+
+
+--- PAGE 5 ---
+02 / SOFTWARE
+05
+I WOULD LEARN
+ONLY FOUR TOOLS FIRST.
+These are not the only good programs. They are the tools I personally use, so these are the ones I can
+genuinely recommend.
+01 / REVIT
+Design + coordinated plans and sections.
+02 / VISOID
+Visual direction + architectural visualisation.
+03 / PHOTOSHOP Post-production + collage + graphic control.
+04 / INDESIGN
+Boards + portfolios + final storytelling.
+DO NOT COLLECT SOFTWARE.
+Build a workflow you can repeat from brief -> project -> presentation.
+DARIA ZYGINA / ARCHITECTURE RESOURCES
+SOFTWARE
+05
+CONTENTS
+
+
+--- PAGE 6 ---
+03 / WORKFLOW
+06
+THE PROJECT SHOULD
+LEAD THE SOFTWARE.
+01
+READ THE BRIEF
+02
+DEFINE THE QUESTION
+03
+COLLECT REFERENCES
+04
+SKETCH + TEST
+05
+REVIT
+06
+CHOOSE VIEWS
+07
+VISOID + PHOTOSHOP
+08
+INDESIGN
+THE QUESTION AT EACH STEP
+BRIEF
+What is actually being asked?
+REFERENCES
+What do I need to learn?
+MODEL
+Does plan + section work?
+VIEWS
+What needs to be understood?
+LAYOUT
+What should be seen first?
+DARIA ZYGINA / ARCHITECTURE RESOURCES
+WORKFLOW
+06
+CONTENTS
+
+
+--- PAGE 7 ---
+04 / REVIT
+07
+LEARN REVIT
+AS A DESIGN TOOL.
+I would learn plan and section together from the beginning. The model is useful only if it helps you make
+architectural decisions.
+RITUAL OF THE CIRCLE / FLOOR PLAN / COMPLETE DRAWING
+WHAT I WOULD PRACTISE FIRST
+01
+levels + grids
+02
+walls + openings
+03
+stairs
+04
+rooms + furniture
+05
+plans + sections
+06
+simple sheets
+DO NOT OVERMODEL
+Model what you need to make the next decision.
+First year is not a BIM competition.
+CHECK PLAN + SECTION TOGETHER
+A convincing plan can still produce a weak space.
+The section usually tells you faster.
+DARIA ZYGINA / ARCHITECTURE RESOURCES
+REVIT
+07
+CONTENTS
+
+
+--- PAGE 8 ---
+05 / VISOID
+08
+VISUALISE AFTER
+YOU HAVE A POINT OF VIEW.
+A beautiful image should clarify architecture, not convince you to stop questioning it.
+RITUAL OF THE CIRCLE / COMPLETE COURTYARD RENDER
+MY ORDER
+01  Decide what the view needs to explain.
+02  Export a clear architectural base from Revit.
+03  Use references intentionally: material, light, mood.
+04  Explore visual directions in Visoid.
+05  Choose and refine instead of generating endlessly.
+06  Finish only what matters in Photoshop.
+A GOOD RENDER CANNOT RESCUE A PROJECT YOU DO NOT UNDERSTAND.
+DARIA ZYGINA / ARCHITECTURE RESOURCES
+VISOID
+08
+CONTENTS
+
+
+--- PAGE 9 ---
+06 / PHOTOSHOP
+09
+PHOTOSHOP IS NOT
+JUST FOR MAKING IT PRETTY.
+RITUAL OF THE CIRCLE / COMPLETE RENDER
+01
+HIERARCHY
+Control what the eye sees first.
+02
+ATMOSPHERE
+Light, people and texture should support the spatial idea.
+03
+COLLAGE
+A fast collage can test an idea before a polished render is worth
+making.
+04
+DIAGRAMS
+Simple graphics are often stronger than over-designed ones.
+05
+FINAL CONTROL
+Colour, contrast and consistency before layout.
+LEARN COMPOSITION BEFORE EFFECTS.
+DARIA ZYGINA / ARCHITECTURE RESOURCES
+PHOTOSHOP
+09
+CONTENTS
+
+
+--- PAGE 10 ---
+07 / INDESIGN
+10
+YOUR PRESENTATION
+IS PART OF THE PROJECT.
+InDesign is where I would learn to edit: hierarchy, sequence, white space and what deserves to be large.
+WESTHAFEN / COMPLETE PRESENTATION PAGE
+01
+ONE HERO
+Decide what should be understood first.
+02
+ONE GRID
+Use alignment instead of decorating empty space.
+03
+FEWER FONT SIZES
+Typography should organise, not perform.
+04
+WHITE SPACE
+Do not fill every centimetre.
+05
+PRINT TEST
+Always.
+DARIA ZYGINA / ARCHITECTURE RESOURCES
+INDESIGN
+10
+CONTENTS
+
+
+--- PAGE 11 ---
+CASE STUDY / RITUAL OF THE CIRCLE
+11
+ONE PROJECT.
+ONE IDEA.
+MANY SCALES.
+I want to show this as a project workflow, not as a collection of final images.
+01 / EXPERIENCE FIRST
+The project begins with the relationship between landscape, retreat and a slower sequence of arrival. Before
+details, the project needs a clear spatial intention.
+WHAT TO NOTICE
+01
+the building sits low in the landscape
+02
+the circular form organises movement
+03
+architecture and landscape are read together before the room
+DARIA ZYGINA / ARCHITECTURE RESOURCES
+RITUAL / CONCEPT
+11
+CONTENTS
+
+
+--- PAGE 12 ---
+CASE STUDY / RITUAL OF THE CIRCLE
+12
+PLAN + SECTION
+HAVE DIFFERENT JOBS.
+SECTION / COMPLETE DRAWING
+PLAN
+Organisation, sequence, programme, circulation and the
+geometry of the central space.
+SECTION
+Level changes, ground, light, structure and the relationship
+between interior and landscape.
+FIRST-YEAR EXERCISE
+Take one project you admire. Cover the images. Try to explain the idea using only one plan and one section.
+DARIA ZYGINA / ARCHITECTURE RESOURCES
+RITUAL / PLAN + SECTION
+12
+CONTENTS
+
+
+--- PAGE 13 ---
+CASE STUDY / RITUAL OF THE CIRCLE
+13
+THE PROJECT GETS
+MORE PRECISE.
+The closer the scale, the more specific the decisions become.
+ROOM SOLUTION / COMPLETE PLAN + COMPLETE RENDER
+DETAIL STUDY / THREE COMPLETE DETAIL DRAWINGS
+WHAT CHANGES?
+At room and detail scale, proportion becomes
+material, junction, build-up, drainage and the
+exact way someone touches the architecture.
+DARIA ZYGINA / ARCHITECTURE RESOURCES
+RITUAL / ROOM + DETAIL
+13
+CONTENTS
+
+
+--- PAGE 14 ---
+08 / WHERE I WOULD LEARN
+14
+COURSES I WOULD
+ACTUALLY LOOK AT.
+My rule: learn one thing, use it immediately in your current project, then learn the next thing.
+OT 0 DO 10 / @ot0do10
+I have personally tried their courses. I would use them when I want a structured architecture-specific learning path.
+BEST FOR: structured architecture learning
+OPEN RESOURCE
+SOFT CULTURE
+Architecture-focused software education. Useful when you want software taught through actual design tasks.
+BEST FOR: software through architecture
+OPEN RESOURCE
+GROMARCH
+Nastya Grom is an architectural designer and a friend of mine. I especially like her approach to visual storytelling and
+architectural graphics.
+BEST FOR: visuals + graphics + workflow
+OPEN RESOURCE
+DO NOT SAVE 200 TUTORIALS.
+Finish one focused course and use it on a real project.
+DARIA ZYGINA / ARCHITECTURE RESOURCES
+LEARNING
+14
+CONTENTS
+
+
+--- PAGE 15 ---
+09 / PROJECT START
+15
+DO NOT START
+WITH PINTEREST.
+Start by understanding the problem. Inspiration becomes useful only after you know what you are looking
+for.
+01
+WHAT IS THE SITE DOING?
+Light, access, slope, neighbours, noise, views, existing structure.
+02
+WHO IS THIS FOR?
+Imagine real routines, not an abstract 'user'.
+03
+WHAT IS THE ONE IDEA?
+If you cannot explain it in one sentence, it is probably not clear enough yet.
+04
+WHAT MUST THE PLAN SOLVE?
+Circulation, privacy, daylight, dimensions, thresholds, storage.
+05
+WHAT MUST THE SECTION SOLVE?
+Height, light, levels, structure, relation to landscape.
+THEN LOOK FOR REFERENCES THAT ANSWER THOSE QUESTIONS.
+DARIA ZYGINA / ARCHITECTURE RESOURCES
+PROJECT START
+15
+CONTENTS
+
+
+--- PAGE 16 ---
+10 / REFERENCES
+16
+BUILD A BETTER
+ARCHITECTURE INTERNET.
+Pinterest is useful for discovery. It should not be your entire research method.
+DIVISARE
+Search by typology, architect and architectural element. Useful when you need actual built
+references.
+OPEN
+DRAWING MATTER
+Architectural drawings, archives and drawing as a way of thinking.
+OPEN
+KOOZARCH
+Conceptual work, representation, interviews and critical design thinking.
+OPEN
+THE ARCHITECTURAL REVIEW
+Criticism, essays and buildings beyond fast image consumption.
+OPEN
+MY RULE
+Save less. Open more plans, sections and details.
+DARIA ZYGINA / ARCHITECTURE RESOURCES
+REFERENCES
+16
+CONTENTS
+
+
+--- PAGE 17 ---
+11 / REFERENCES
+17
+DO NOT SAVE A BUILDING.
+DISSECT IT.
+01
+What is the plan doing that mine is not?
+02
+Where is the main circulation sequence?
+03
+How does the section bring in light?
+04
+What is structural and what only looks structural?
+05
+Where do materials change - and why there?
+06
+How does the building meet the ground?
+07
+What happens at the door, window, corner and threshold?
+08
+What would still be good if the render was ugly?
+A REFERENCE IS A QUESTION YOU CAN LEARN FROM.
+DARIA ZYGINA / ARCHITECTURE RESOURCES
+REFERENCES
+17
+CONTENTS
+
+
+--- PAGE 18 ---
+12 / BUILDINGS TO STUDY
+18
+SIX PROJECTS.
+SIX DIFFERENT LESSONS.
+These are study diagrams - not reproductions and not to scale. Tap SOURCE to open a visual reference.
+ALVARO SIZA
+LECA SWIMMING POOLS
+STUDY: building + landscape
+SOURCE
+TADAO ANDO
+CHURCH OF THE LIGHT
+STUDY: light as architecture
+SOURCE
+CARLO SCARPA
+CASTELVECCHIO
+STUDY: junctions + stairs
+SOURCE
+MIES VAN DER ROHE
+NEUE NATIONALGALERIE
+STUDY: structure + proportion
+SOURCE
+PETER ZUMTHOR
+THERME VALS
+STUDY: material + sequence
+SOURCE
+LACATON & VASSAL
+GRAND PARC BORDEAUX
+STUDY: generosity + reuse
+SOURCE
+DARIA ZYGINA / ARCHITECTURE RESOURCES
+BUILDINGS
+18
+CONTENTS
+
+
+--- PAGE 19 ---
+13 / BOOKS
+19
+SIX BOOKS I WOULD
+KEEP NEAR MY DESK.
+You do not need to finish them before semester starts. Read slowly and return when a project gives you a
+reason.
+01 / EXPERIENCING ARCHITECTURE
+Steen Eiler Rasmussen
+proportion / rhythm / perception
+02 / LESSONS FOR STUDENTS IN ARCHITECTURE
+Herman Hertzberger
+space / use / project thinking
+03 / THE EYES OF THE SKIN
+Juhani Pallasmaa
+architecture beyond the image
+04 / ATMOSPHERES
+Peter Zumthor
+material / sound / temperature / mood
+05 / A PATTERN LANGUAGE
+Christopher Alexander et al.
+spatial questions / everyday life
+06 / CARLO SCARPA: ARCHITECTURE IN DETAILS
+various studies
+junctions / craft / physical precision
+DO NOT READ ARCHITECTURE TO SOUND LIKE AN ARCHITECT.
+Read it because your next project needs a better question.
+DARIA ZYGINA / ARCHITECTURE RESOURCES
+BOOKS
+19
+CONTENTS
+
+
+--- PAGE 20 ---
+14 / CRITS + SEMESTER RHYTHM
+20
+ARRIVE WITH
+A QUESTION, NOT A PANIC.
+FOR A CRIT
+01
+START WITH ONE SENTENCE
+What is the project trying to do?
+02
+SHOW THE RIGHT DRAWING FIRST
+The clearest drawing, not necessarily the prettiest.
+03
+ASK ONE SPECIFIC QUESTION
+Make it possible to give you useful feedback.
+04
+WRITE FEEDBACK DOWN
+You will not remember everything afterwards.
+05
+DO NOT CHANGE EVERYTHING Separate useful criticism from personal preference.
+A SIMPLE WEEK
+MON
+define the question
+TUE
+references + fast options
+WED
+model / plan / section
+THU
+choose + develop
+FRI
+rough print / export
+WEEKEND
+edit + look again
+A CRIT IS NOT A VERDICT ON WHETHER YOU ARE TALENTED.
+DARIA ZYGINA / ARCHITECTURE RESOURCES
+CRITS
+20
+CONTENTS
+
+
+--- PAGE 21 ---
+15 / INTERACTIVE WORKBOOK
+21
+BUILD YOUR FIRST
+PROJECT SYSTEM.
+Type directly into the fields in a PDF reader that supports forms. It also works as a print worksheet.
+01 / THE BRIEF
+What is actually being asked?
+02 / THE QUESTION
+What is the one spatial problem I am solving?
+03 / THE SITE
+What must I respond to?
+04 / THE USER
+What everyday routine matters?
+05 / REFERENCES
+What do I need to learn from them?
+06 / NEXT DECISION
+What exactly do I need to resolve next?
+DARIA ZYGINA / ARCHITECTURE RESOURCES
+WORKBOOK
+21
+CONTENTS
+Try it now :) 
+
+
+--- PAGE 22 ---
+16 / BEFORE SEMESTER STARTS
+22
+FIRST YEAR
+STARTER CHECKLIST.
+Install Revit and learn the basic interface.
+Create one tiny practice model - not a full project.
+Learn Photoshop selections, masks, layers and adjustment tools.
+Learn pages, grids and paragraph styles in InDesign.
+Bookmark 3-4 architecture reference sources you trust.
+Study one building properly: plan + section + detail + photos.
+Create a clean folder and file-naming system.
+Set up automatic backups.
+Remember: you are allowed to be a beginner.
+MY FIRST SEMESTER REFERENCE LIST
+3 ARCHITECTS
+3 BOOKS
+3 REFERENCE SOURCES
+NEXT SOFTWARE SKILL
+YOU DO NOT NEED TO ARRIVE ALREADY KNOWING HOW TO BE AN ARCHITECT.
+You need curiosity, a system for learning, and patience to make one decision better at a time.
+DARIA ZYGINA / ARCHITECTURE RESOURCES
+CHECKLIST
+22
+CONTENTS
+
+
